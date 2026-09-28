@@ -1,0 +1,51 @@
+product_id,product_name,category,unit_cost,unit_price
+PROD001,Wireless Mouse,Electronics,996.93,1662.43
+PROD002,Bluetooth Speaker,Electronics,1266.96,1984.17
+PROD003,Laptop Stand,Electronics,469.13,787.39
+PROD004,USB-C Hub,Electronics,2827.05,5398.5
+PROD005,Power Bank,Electronics,2718.14,5039.33
+PROD006,Smartwatch,Electronics,972.75,1744.28
+PROD007,Earbuds,Electronics,101.18,157.66
+PROD008,Webcam,Electronics,1346.68,2453.63
+PROD009,Keyboard,Electronics,1998.65,3434.66
+PROD010,Monitor,Electronics,1382.26,2062.79
+PROD011,Non-stick Pan,Home & Kitchen,1472.24,3107.99
+PROD012,Electric Kettle,Home & Kitchen,2408.47,3498.84
+PROD013,Table Lamp,Home & Kitchen,345.91,610.15
+PROD014,Storage Box,Home & Kitchen,1935.53,3100.08
+PROD015,Cushion Cover,Home & Kitchen,2473.43,4887.56
+PROD016,Water Bottle,Home & Kitchen,2051.11,3081.13
+PROD017,Wall Clock,Home & Kitchen,677.48,895.62
+PROD018,Mixer Grinder,Home & Kitchen,810.04,1399.44
+PROD019,Bedsheet Set,Home & Kitchen,2564.24,3501.59
+PROD020,Curtains,Home & Kitchen,1301.88,2430.34
+PROD021,Cotton T-Shirt,Fashion,663.86,1279.07
+PROD022,Denim Jacket,Fashion,1533.69,2330.57
+PROD023,Running Shoes,Fashion,2002.57,2613.33
+PROD024,Backpack,Fashion,2277.8,4539.75
+PROD025,Sunglasses,Fashion,409.1,688.36
+PROD026,Leather Wallet,Fashion,610.07,1319.07
+PROD027,Formal Shirt,Fashion,1602.08,2155.11
+PROD028,Sports Cap,Fashion,822.68,1697.6
+PROD029,Sneakers,Fashion,1423.74,2877.77
+PROD030,Handbag,Fashion,2035.98,4456.97
+PROD031,Notebook Set,Stationery,1826.81,3936.84
+PROD032,Gel Pens Pack,Stationery,2685.14,4971.23
+PROD033,Sticky Notes,Stationery,2185.89,3834.71
+PROD034,Desk Organizer,Stationery,2508.65,4498.22
+PROD035,Whiteboard,Stationery,2701.9,5320.82
+PROD036,Highlighter Set,Stationery,1476.56,2263.97
+PROD037,Planner Diary,Stationery,817.0,1530.97
+PROD038,File Folder,Stationery,2320.86,4106.0
+PROD039,Calculator,Stationery,1917.57,2966.74
+PROD040,Pencil Box,Stationery,324.7,505.61
+PROD041,Yoga Mat,Sports,887.97,1409.86
+PROD042,Cricket Bat,Sports,1666.44,2373.9
+PROD043,Football,Sports,770.66,1483.18
+PROD044,Dumbbell Set,Sports,2148.62,2917.41
+PROD045,Skipping Rope,Sports,1282.04,2292.74
+PROD046,Badminton Racket,Sports,1305.75,1940.54
+PROD047,Gym Gloves,Sports,1318.42,2787.61
+PROD048,Water Shaker,Sports,1793.83,3454.86
+PROD049,Resistance Band,Sports,2584.52,5140.7
+PROD050,Cycling Helmet,Sports,1203.1,1570.41

@@ -1,0 +1,9 @@
+employee_id,salesperson,region,city,joining_date
+EMP001,Rohit Sharma,South,Hyderabad,2021-11-02
+EMP002,Priya Das,East,Patna,2022-02-04
+EMP003,Ananya Singh,Central,Indore,2023-07-03
+EMP004,Kiran Mehta,Central,Indore,2022-03-06
+EMP005,Vivek Rao,North,Jaipur,2023-02-05
+EMP006,Aman Verma,Central,Nagpur,2022-07-14
+EMP007,Sneha Kapoor,East,Patna,2022-09-10
+EMP008,Arjun Nair,North,Kanpur,2021-08-14

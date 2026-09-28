@@ -1,0 +1,605 @@
+order_id,customer_id,employee_id,order_date,city,region,salesperson,payment_method,order_status
+ORD0001,CUST0045,EMP005,2025-09-26,Jaipur,North,Vivek Rao,Credit Card,Delivered
+ORD0002,CUST0075,EMP001,2025-06-11,Bhopal,Central,Rohit Sharma,UPI,Delivered
+ORD0003,CUST0053,EMP004,2025-03-07,Kanpur,North,Kiran Mehta,Debit Card,Returned
+ORD0004,CUST0035,EMP007,2023/05/14,Bhopal,Central,Sneha Kapoor,Credit Card,Pending
+ORD0005,CUST0102,EMP002,2025-08-15,Nagpur,Central,Priya Das,Credit Card,Cancelled
+ORD0006,CUST0114,EMP007,2025-12-29,Nagpur,Central,Sneha Kapoor,Cash,Delivered
+ORD0007,CUST0099,EMP002,2023-02-25,Kanpur,North,Priya Das,Cash,Returned
+ORD0008,CUST0043,EMP002,2025-05-27,Kanpur,North,Priya Das,cash,Pending
+ORD0009,CUST0077,EMP001,2025-08-03,Lucknow,North,Rohit Sharma,Credit Card,Delivered
+ORD0010,CUST0010,EMP001,2024-06-16,Delhi,North,Rohit Sharma,UPI,Delivered
+ORD0011,CUST0015,EMP003,2024-03-09,Kolkata,East,Ananya Singh,UPI,Delivered
+ORD0012,CUST0118,EMP003,2024-11-22,Pune,West,Ananya Singh,UPI,Delivered
+ORD0013,CUST0054,EMP007,2025-05-13,Jaipur,,Sneha Kapoor,Debit Card,Pending
+ORD0014,CUST0009,EMP007,2023-06-17,Patna,East,Sneha Kapoor,UPI,Delivered
+ORD0015,CUST0096,EMP004,2023-04-17,Delhi,North,Kiran Mehta,Debit Card,Delivered
+ORD0016,CUST0043,EMP003,2023-05-21,Kanpur,North,Ananya Singh,Cash,Pending
+ORD0017,CUST0027,EMP003,2023-03-05,Kolkata,East,Ananya Singh,Credit Card,Delivered
+ORD0018,CUST0042,EMP008,2023-02-11,Hyderabad,South,Arjun Nair,Net Banking,Delivered
+ORD0019,CUST0073,EMP005,2024-05-03,Indore,Central,Vivek Rao,Credit Card,Delivered
+ORD0020,CUST0028,EMP005,2023-08-23,Hyderabad,South,Vivek Rao,Net Banking,Delivered
+ORD0021,CUST0047,EMP003,2025-08-10,Chennai,South,Ananya Singh,Debit Card,Pending
+ORD0022,CUST0090,EMP008,2025-01-25,Chennai,South,Arjun Nair,Credit Card,Cancelled
+ORD0023,CUST0023,EMP003,2023-08-23,Kolkata,East,Ananya Singh,Credit Card,Delivered
+ORD0024,CUST0120,EMP008,2023-08-10,Kanpur,North,Arjun Nair,Net Banking,Delivered
+ORD0025,CUST0095,EMP006,2024-09-30,Nagpur,Central,Aman Verma,Net Banking,Returned
+ORD0026,CUST0086,EMP005,2025-02-07,Patna,East,Vivek Rao,UPI,Returned
+ORD0027,CUST0060,EMP004,2024-02-11,Pune,West,Kiran Mehta,Cash,Cancelled
+ORD0028,CUST0042,EMP004,2024-05-12,Hyderabad,South,Kiran Mehta,Cash,Returned
+ORD0029,CUST0048,EMP003,2024-09-09,Kolkata,East,Ananya Singh,Net Banking,Pending
+ORD0030,CUST0055,EMP005,2023-09-05,Jaipur,North,Vivek Rao,Net Banking,Pending
+ORD0031,CUST0052,EMP005,2023-03-26,Delhi,North,Vivek Rao,Debit Card,Cancelled
+ORD0032,CUST0039,EMP002,2025-05-27,Chennai,South,Priya Das,Debit Card,Delivered
+ORD0033,CUST0023,EMP007,2025-11-02,Kolkata,East,Sneha Kapoor,Debit Card,Delivered
+ORD0034,CUST0102,EMP003,2025-05-10,Nagpur,Central,Ananya Singh,UPI,Delivered
+ORD0035,CUST0021,EMP002,2025-06-06,Bhopal,Central,Priya Das,Debit Card,Returned
+ORD0036,CUST0031,EMP008,2025-07-30,Delhi,North,Arjun Nair,Credit Card,Delivered
+ORD0037,CUST0034,EMP003,2023-12-27,Kanpur,North,Ananya Singh,Net Banking,Returned
+ORD0038,CUST0027,EMP001,2024-07-07,Kolkata,East,Rohit Sharma,Net Banking,Pending
+ORD0039,CUST0055,EMP001,2025-09-17,Jaipur,North,Rohit Sharma,UPI,Delivered
+ORD0040,CUST0072,EMP003,2024-07-03,Mumbai,West,Ananya Singh,Debit Card,Pending
+ORD0041,CUST0033,EMP003,2024-05-17,Mumbai,West,Ananya Singh,Cash,Delivered
+ORD0042,CUST0049,EMP004,2025-07-12,Kanpur,North,Kiran Mehta,Credit Card,Pending
+ORD0043,CUST0047,EMP006,2025-08-09,Chennai,South,Aman Verma,Net Banking,Cancelled
+ORD0044,CUST0007,EMP004,2025-02-15,Indore,Central,Kiran Mehta,Debit Card,Delivered
+ORD0045,CUST0102,EMP005,2025-10-09,Nagpur,Central,Vivek Rao,Debit Card,Delivered
+ORD0046,CUST0001,EMP008,2025-09-25,Nagpur,Central,Arjun Nair,Credit Card,Delivered
+ORD0047,CUST0054,EMP006,2024-06-13,Jaipur,North,Aman Verma,Debit Card,Delivered
+ORD0048,CUST0072,EMP002,2024-07-19,Mumbai,West,Priya Das,Net Banking,Delivered
+ORD0049,CUST0033,EMP004,2025-11-24,Mumbai,West,Kiran Mehta,Credit Card,Delivered
+ORD0050,CUST0040,EMP007,2024-05-09,Patna,East,Sneha Kapoor,UPI,Delivered
+ORD0051,CUST0027,EMP004,2024-05-07,Kolkata,East,Kiran Mehta,UPI,Returned
+ORD0052,CUST0004,EMP002,2025-10-02,Chennai,South,Priya Das,UPI,Pending
+ORD0053,CUST0076,EMP002,2023-02-05,Lucknow,North,Priya Das,Cash,Delivered
+ORD0054,CUST0084,EMP007,2024-03-29,Delhi,North,Sneha Kapoor,UPI,Returned
+ORD0055,CUST0104,EMP005,2024-05-13,Bengaluru,South,Vivek Rao,Debit Card,Returned
+ORD0056,CUST0058,EMP003,2025-01-25,Pune,West,Ananya Singh,UPI,Cancelled
+ORD0057,CUST0066,EMP003,2025-12-23,Ahmedabad,West,Ananya Singh,Debit Card,Delivered
+ORD0058,CUST0004,EMP003,2024-11-08,Chennai,South,Ananya Singh,Debit Card,Returned
+ORD0059,CUST0104,EMP006,2025-07-18,Bengaluru,South,Aman Verma,Debit Card,Delivered
+ORD0060,CUST0022,EMP005,2024-05-29,Indore,Central,Vivek Rao,Credit Card,Delivered
+ORD0061,CUST0024,EMP004,2024-01-30,Nagpur,Central,Kiran Mehta,Debit Card,Delivered
+ORD0062,CUST0112,EMP002,2024-01-15,Kanpur,North,Priya Das,Credit Card,Delivered
+ORD0063,CUST0104,EMP007,2025-09-18,Bengaluru,South,Sneha Kapoor,Debit Card,Returned
+ORD0064,CUST0072,EMP004,2025-12-10,Mumbai,West,Kiran Mehta,Net Banking,Delivered
+ORD0065,CUST0094,EMP006,2023-07-25,Kolkata,East,Aman Verma,Credit Card,Delivered
+ORD0066,CUST0081,EMP007,2024-04-10,Hyderabad,South,Sneha Kapoor,Debit Card,Delivered
+ORD0067,CUST0113,EMP007,2024-09-11,Mumbai,West,Sneha Kapoor,Cash,Returned
+ORD0068,CUST0004,EMP004,2025-12-29,Chennai,South,Kiran Mehta,Credit Card,Delivered
+ORD0069,CUST0030,EMP002,2023-04-04,Bhopal,Central,Priya Das,Cash,Cancelled
+ORD0070,CUST0108,EMP003,2024-08-21,Kolkata,East,Ananya Singh,Credit Card,Returned
+ORD0071,CUST0075,EMP007,2025-10-02,Bhopal,Central,Sneha Kapoor,Cash,Pending
+ORD0072,CUST0103,EMP007,2023-01-26,Bengaluru,South,Sneha Kapoor,Net Banking,Delivered
+ORD0073,CUST0056,EMP005,2025-08-19,Ahmedabad,West,Vivek Rao,UPI,Delivered
+ORD0074,CUST0026,EMP006,2024-11-28,Bengaluru,South,Aman Verma,Credit Card,Delivered
+ORD0075,CUST0074,EMP007,2024-06-01,Delhi,North,Sneha Kapoor,UPI,Delivered
+ORD0076,CUST0055,EMP006,2023-05-14,Jaipur,North,Aman Verma,UPI,Delivered
+ORD0077,CUST0014,EMP005,2023-06-01,Chennai,South,Vivek Rao,Net Banking,Returned
+ORD0078,CUST0067,EMP008,2023-04-20,Mumbai,West,Arjun Nair,Credit Card,Delivered
+ORD0079,CUST0027,EMP007,2024-09-14,Kolkata,East,Sneha Kapoor,Cash,Delivered
+ORD0080,CUST0046,EMP002,2023-08-31,Bengaluru,South,Priya Das,Net Banking,Pending
+ORD0081,CUST0061,EMP002,2025-05-02,Chennai,South,Priya Das,Net Banking,Cancelled
+ORD0082,CUST0022,EMP003,2024-04-07,Indore,Central,Ananya Singh,Net Banking,Delivered
+ORD0083,CUST0005,EMP004,2025-07-11,Jaipur,North,Kiran Mehta,UPI,Delivered
+ORD0084,CUST0119,EMP002,2025-05-28,Hyderabad,South,Priya Das,Debit Card,Cancelled
+ORD0085,CUST0086,EMP004,2023-05-04,Patna,East,Kiran Mehta,Net Banking,Returned
+ORD0086,CUST0117,EMP008,2023-07-23,Jaipur,North,Arjun Nair,Credit Card,Returned
+ORD0087,CUST0042,EMP008,2024-03-08,Hyderabad,South,Arjun Nair,Debit Card,Returned
+ORD0088,CUST0116,EMP003,2023-06-16,Kolkata,East,Ananya Singh,Credit Card,Delivered
+ORD0089,CUST0108,EMP007,2023-12-22,Kolkata,East,Sneha Kapoor,Net Banking,Delivered
+ORD0090,CUST0097,EMP007,2023-11-17,Hyderabad,South,Sneha Kapoor,Cash,Delivered
+ORD0091,CUST0021,EMP001,2025-07-11,Bhopal,Central,Rohit Sharma,Net Banking,Delivered
+ORD0092,CUST0118,EMP008,2024-08-19,Pune,West,Arjun Nair,Cash,Delivered
+ORD0093,CUST0055,EMP005,2024-08-13,Jaipur,North,Vivek Rao,Debit Card,Returned
+ORD0094,CUST0097,EMP001,2025-07-18,Hyderabad,South,Rohit Sharma,Cash,Returned
+ORD0095,CUST0036,EMP007,2024-04-23,Bengaluru,South,Sneha Kapoor,Debit Card,Pending
+ORD0096,CUST0102,EMP007,2024-02-10,Nagpur,Central,Sneha Kapoor,UPI,Delivered
+ORD0097,CUST0115,EMP008,2024-04-05,Delhi,North,Arjun Nair,Credit Card,Delivered
+ORD0098,CUST0042,EMP004,2023-10-19,Hyderabad,South,Kiran Mehta,Cash,Delivered
+ORD0099,CUST0097,EMP002,2023-12-06,Hyderabad,South,Priya Das,Debit Card,Cancelled
+ORD0100,CUST0109,EMP002,2024-08-14,Chennai,South,Priya Das,UPI,Delivered
+ORD0101,CUST0106,EMP008,2025-08-17,Nagpur,Central,Arjun Nair,Debit Card,Returned
+ORD0102,CUST0092,EMP006,2025-04-04,Bhopal,Central,Aman Verma,Debit Card,Cancelled
+ORD0103,CUST0011,EMP003,2025-10-08,DELHI,East,Ananya Singh,UPI,Delivered
+ORD0104,CUST0116,EMP007,2023-03-23,Kolkata,East,Sneha Kapoor,UPI,Returned
+ORD0105,CUST0076,EMP008,2024-10-22,Lucknow,North,Arjun Nair,Net Banking,Delivered
+ORD0106,CUST0096,EMP008,2023-02-22,Delhi,North,Arjun Nair,Cash,Delivered
+ORD0107,CUST0110,EMP001,2023-02-12,Delhi,North,Rohit Sharma,Debit Card,Cancelled
+ORD0108,CUST0035,EMP007,2023-03-24,Bhopal,Central,Sneha Kapoor,Credit Card,Delivered
+ORD0109,CUST0064,EMP004,2025-11-28,Mumbai,West,Kiran Mehta,UPI,Delivered
+ORD0110,CUST0017,EMP003,2024-01-07,Indore,Central,Ananya Singh,Net Banking,Delivered
+ORD0111,CUST0007,EMP008,2025-10-04,Indore,Central,Arjun Nair,Cash,Delivered
+ORD0112,CUST0069,EMP001,2024-12-13,Nagpur,Central,Rohit Sharma,UPI,Delivered
+ORD0113,CUST0035,EMP007,2024-10-19,Bhopal,Central,Sneha Kapoor,Cash,Pending
+ORD0114,CUST0117,EMP005,2023-11-26,Jaipur,North,Vivek Rao,Debit Card,Delivered
+ORD0115,CUST0008,EMP003,2025-10-11,Pune,West,Ananya Singh,Debit Card,Returned
+ORD0116,CUST0100,EMP002,2025-03-31,Bhopal,Central,Priya Das,Net Banking,Delivered
+ORD0117,CUST0101,EMP004,2025-07-20,Patna,East,Kiran Mehta,Cash,Delivered
+ORD0118,CUST0014,EMP006,2024-05-31,Chennai,South,Aman Verma,Debit Card,Delivered
+ORD0119,CUST0003,EMP006,2025-04-07,Lucknow,North,Aman Verma,Net Banking,Pending
+ORD0120,CUST0085,EMP001,2023-01-03,Ahmedabad,West,Rohit Sharma,Net Banking,Delivered
+ORD0121,CUST0095,EMP007,2025-04-26,Nagpur,Central,Sneha Kapoor,Cash,Delivered
+ORD0122,CUST0103,EMP006,2025-11-27,Bengaluru,South,Aman Verma,Debit Card,Cancelled
+ORD0123,CUST0035,EMP001,2025-10-17,Bhopal,Central,Rohit Sharma,UPI,Pending
+ORD0124,CUST0038,EMP003,2023-04-16,Bhopal,Central,Ananya Singh,Credit Card,Delivered
+ORD0125,CUST0013,EMP006,2023-09-26,Indore,Central,Aman Verma,Debit Card,Delivered
+ORD0126,CUST0039,EMP001,2025-09-19,Chennai,South,Rohit Sharma,Cash,Delivered
+ORD0127,CUST0072,EMP006,2024-05-05,Mumbai,West,Aman Verma,Credit Card,Delivered
+ORD0128,CUST0047,EMP001,2023-01-29,Chennai,South,Rohit Sharma,Net Banking,Delivered
+ORD0129,CUST0073,EMP001,2023-07-10,Indore,Central,Rohit Sharma,Credit Card,Pending
+ORD0130,CUST0113,EMP002,2023-08-21,Mumbai,West,Priya Das,UPI,Delivered
+ORD0131,CUST0065,EMP005,2023-11-12,Kanpur,North,Vivek Rao,UPI,Returned
+ORD0132,CUST0011,EMP006,2024-08-20,DELHI,East,Aman Verma,Net Banking,Returned
+ORD0133,CUST0077,EMP002,2024-07-13,Lucknow,North,Priya Das,UPI,Pending
+ORD0134,CUST0011,EMP008,2025-09-15,DELHI,East,Arjun Nair,UPI,Delivered
+ORD0135,CUST0087,EMP006,2025-07-24,Indore,Central,Aman Verma,Net Banking,Delivered
+ORD0136,CUST0066,EMP006,2025-02-24,Ahmedabad,West,Aman Verma,Credit Card,Cancelled
+ORD0137,CUST0114,EMP006,2025-11-06,Nagpur,Central,Aman Verma,Credit Card,Pending
+ORD0138,CUST0119,EMP008,2023-05-23,Hyderabad,South,Arjun Nair,Debit Card,Pending
+ORD0139,CUST0120,EMP002,2025-04-29,Kanpur,North,Priya Das,Debit Card,Pending
+ORD0140,CUST0028,EMP007,2025-11-05,Hyderabad,South,Sneha Kapoor,Debit Card,Pending
+ORD0141,CUST0018,EMP003,2023-01-06,Chennai,South,Ananya Singh,Debit Card,Returned
+ORD0142,CUST0013,EMP004,2024-09-03,Indore,Central,Kiran Mehta,Net Banking,Cancelled
+ORD0143,CUST0045,EMP003,2025-09-29,Jaipur,North,Ananya Singh,Credit Card,Delivered
+ORD0144,CUST0113,EMP008,2025-09-18,Mumbai,West,Arjun Nair,Debit Card,Delivered
+ORD0145,CUST0048,EMP005,2025-02-11,Kolkata,East,Vivek Rao,UPI,Delivered
+ORD0146,CUST0076,EMP007,2024-01-22,Lucknow,North,Sneha Kapoor,Credit Card,Cancelled
+ORD0147,CUST0065,EMP003,2025-02-23,Kanpur,North,Ananya Singh,Credit Card,Pending
+ORD0148,CUST0096,EMP003,2025-04-21,Delhi,North,Ananya Singh,Cash,Delivered
+ORD0149,CUST0114,EMP004,2025-08-26,Nagpur,Central,Kiran Mehta,UPI,Delivered
+ORD0150,CUST0077,EMP002,2023-11-08,Lucknow,North,Priya Das,UPI,Delivered
+ORD0151,CUST0028,EMP004,2023-09-16,Hyderabad,South,Kiran Mehta,Net Banking,Cancelled
+ORD0152,CUST0022,EMP007,2024-11-10,Indore,Central,Sneha Kapoor,Cash,Pending
+ORD0153,CUST0021,EMP001,2025-06-20,Bhopal,Central,Rohit Sharma,Cash,Cancelled
+ORD0154,CUST0018,EMP004,2025-07-24,Chennai,South,Kiran Mehta,Cash,Returned
+ORD0155,CUST0026,EMP005,2023-10-23,Bengaluru,South,Vivek Rao,UPI,Pending
+ORD0156,CUST0081,EMP003,2023-11-13,Hyderabad,South,Ananya Singh,Cash,Delivered
+ORD0157,CUST0061,EMP001,2024-06-26,Chennai,South,Rohit Sharma,Debit Card,Cancelled
+ORD0158,CUST0032,EMP006,2025-03-25,Jaipur,North,Aman Verma,Cash,Pending
+ORD0159,CUST0035,EMP003,2024-11-03,Bhopal,Central,Ananya Singh,Net Banking,Delivered
+ORD0160,CUST0052,EMP005,2024-10-10,Delhi,North,Vivek Rao,UPI,Pending
+ORD0161,CUST0021,EMP006,2023-03-15,Bhopal,Central,Aman Verma,Net Banking,Delivered
+ORD0162,CUST0036,EMP004,2024-04-25,Bengaluru,South,Kiran Mehta,Debit Card,Delivered
+ORD0163,CUST0027,EMP007,2023-07-05,Kolkata,East,Sneha Kapoor,UPI,Delivered
+ORD0164,CUST0072,EMP001,2023-07-25,Mumbai,West,Rohit Sharma,UPI,Delivered
+ORD0165,CUST0117,EMP008,2024-09-05,Jaipur,North,Arjun Nair,Cash,Delivered
+ORD0166,CUST0091,EMP004,2024-10-26,Ahmedabad,West,Kiran Mehta,Cash,Delivered
+ORD0167,CUST0033,EMP004,2025-01-04,Mumbai,West,Kiran Mehta,Debit Card,Delivered
+ORD0168,CUST0062,EMP001,2023-10-26,Pune,West,Rohit Sharma,Credit Card,Cancelled
+ORD0169,CUST0081,EMP006,2025-04-23,Hyderabad,South,Aman Verma,Net Banking,Returned
+ORD0170,CUST0053,EMP001,2024-01-04,Kanpur,North,Rohit Sharma,Credit Card,Delivered
+ORD0171,CUST0110,EMP005,2023-06-11,Delhi,North,Vivek Rao,Net Banking,Pending
+ORD0172,CUST0025,EMP006,2025-02-22,Kanpur,North,Aman Verma,Net Banking,Returned
+ORD0173,CUST0037,EMP004,2024-05-08,Patna,East,Kiran Mehta,UPI,Cancelled
+ORD0174,CUST0098,EMP002,2023-10-21,Bengaluru,South,Priya Das,Credit Card,Delivered
+ORD0175,CUST0047,EMP008,2024-06-04,Chennai,South,Arjun Nair,UPI,Delivered
+ORD0176,CUST0051,EMP002,2023-01-20,Jaipur,North,Priya Das,UPI,Delivered
+ORD0177,CUST0049,EMP004,2023-11-20,Kanpur,North,Kiran Mehta,Cash,Delivered
+ORD0178,CUST0011,EMP004,2024-12-08,DELHI,East,Kiran Mehta,Net Banking,Delivered
+ORD0179,CUST0068,EMP008,2025-05-18,Kolkata,East,Arjun Nair,Debit Card,Delivered
+ORD0180,CUST0039,EMP002,2024-09-10,Chennai,South,Priya Das,Credit Card,Delivered
+ORD0181,CUST0020,EMP006,2025-09-16,Ahmedabad,West,Aman Verma,Cash,Delivered
+ORD0182,CUST0094,EMP004,2025-02-20,Kolkata,East,Kiran Mehta,Net Banking,Delivered
+ORD0183,CUST0066,EMP005,2024-08-28,Ahmedabad,West,Vivek Rao,Debit Card,Delivered
+ORD0184,CUST0032,EMP007,2025-03-21,Jaipur,North,Sneha Kapoor,Debit Card,Delivered
+ORD0185,CUST0096,EMP003,2023-04-11,Delhi,North,Ananya Singh,Net Banking,Returned
+ORD0186,CUST0028,EMP008,2025-10-14,Hyderabad,South,Arjun Nair,Debit Card,Pending
+ORD0187,CUST0069,EMP008,2024-04-16,Nagpur,Central,Arjun Nair,Net Banking,Pending
+ORD0188,CUST0084,EMP001,2024-12-22,Delhi,North,Rohit Sharma,Credit Card,Returned
+ORD0189,CUST0027,EMP005,2024-01-25,Kolkata,East,Vivek Rao,Net Banking,Delivered
+ORD0190,CUST0093,EMP001,2023-10-08,Mumbai,West,Rohit Sharma,Cash,Returned
+ORD0191,CUST0048,EMP007,2023-03-22,Kolkata,East,Sneha Kapoor,Debit Card,Pending
+ORD0192,CUST0034,EMP004,2025-06-21,Kanpur,North,Kiran Mehta,Cash,Cancelled
+ORD0193,CUST0113,EMP004,2025-01-17,Mumbai,West,Kiran Mehta,Credit Card,Delivered
+ORD0194,CUST0095,EMP005,2024-08-27,Nagpur,Central,Vivek Rao,Debit Card,Returned
+ORD0195,CUST0100,EMP002,2025-04-30,Bhopal,Central,Priya Das,Credit Card,Delivered
+ORD0196,CUST0089,EMP001,2023-09-28,Jaipur,North,Rohit Sharma,Net Banking,Delivered
+ORD0197,CUST0089,EMP001,2025-12-23,Jaipur,North,Rohit Sharma,Net Banking,Delivered
+ORD0198,CUST0064,EMP004,2023-12-03,Mumbai,West,Kiran Mehta,Debit Card,Pending
+ORD0199,CUST0069,EMP006,2025-09-13,Nagpur,Central,Aman Verma,Debit Card,Returned
+ORD0200,CUST0068,EMP008,2024-11-24,Kolkata,East,Arjun Nair,Cash,Delivered
+ORD0201,CUST0017,EMP007,2023-06-04,Indore,Central,Sneha Kapoor,Credit Card,Pending
+ORD0202,CUST0079,EMP005,2024-04-07,Bhopal,Central,Vivek Rao,UPI,Pending
+ORD0203,CUST0045,EMP004,2025-01-19,Jaipur,North,Kiran Mehta,Cash,Pending
+ORD0204,CUST0034,EMP003,2025-03-19,Kanpur,North,Ananya Singh,Cash,Delivered
+ORD0205,CUST0080,EMP003,2023-09-11,Bengaluru,South,Ananya Singh,UPI,Delivered
+ORD0206,CUST0043,EMP006,2024-06-20,Kanpur,North,Aman Verma,Net Banking,Delivered
+ORD0207,CUST0063,EMP004,2025-01-30,Indore,Central,Kiran Mehta,Cash,Returned
+ORD0208,CUST0055,EMP004,2024-04-23,Jaipur,North,Kiran Mehta,UPI,Delivered
+ORD0209,CUST0018,EMP003,2024-11-02,Chennai,South,Ananya Singh,Net Banking,Delivered
+ORD0210,CUST0082,EMP001,2023-05-10,Lucknow,North,Rohit Sharma,UPI,Returned
+ORD0211,CUST0058,EMP002,2024-09-10,Pune,West,Priya Das,UPI,Delivered
+ORD0212,CUST0098,EMP007,2023-10-14,Bengaluru,South,Sneha Kapoor,Cash,Delivered
+ORD0213,CUST0012,EMP006,2024-09-15,Delhi,North,Aman Verma,UPI,Delivered
+ORD0214,CUST0061,EMP005,2023-07-19,Chennai,South,Vivek Rao,Credit Card,Cancelled
+ORD0215,CUST0006,EMP004,2023-10-05,  mumbai ,South,Kiran Mehta,UPI,Delivered
+ORD0216,CUST0056,EMP007,2025-01-29,Ahmedabad,West,Sneha Kapoor,Net Banking,Delivered
+ORD0217,CUST0012,EMP007,2023-11-13,Delhi,North,Sneha Kapoor,UPI,Returned
+ORD0218,CUST0045,EMP001,2023-07-22,Jaipur,North,Rohit Sharma,UPI,Cancelled
+ORD0219,CUST0055,EMP008,2025-04-15,Jaipur,North,Arjun Nair,Debit Card,Delivered
+ORD0220,CUST0086,EMP001,2025-01-28,Patna,East,Rohit Sharma,Credit Card,Delivered
+ORD0221,CUST0008,EMP008,2025-06-29,Pune,West,Arjun Nair,Credit Card,Pending
+ORD0222,CUST0071,EMP006,2025-01-12,Nagpur,Central,Aman Verma,Cash,Returned
+ORD0223,CUST0068,EMP003,2025-01-22,Kolkata,East,Ananya Singh,Net Banking,Returned
+ORD0224,CUST0061,EMP007,2025-01-04,Chennai,South,Sneha Kapoor,Cash,Delivered
+ORD0225,CUST0053,EMP007,2024-07-19,Kanpur,North,Sneha Kapoor,Credit Card,Delivered
+ORD0226,CUST0022,EMP001,2025-07-20,Indore,Central,Rohit Sharma,Cash,Returned
+ORD0227,CUST0096,EMP004,2024-03-10,Delhi,North,Kiran Mehta,Net Banking,Delivered
+ORD0228,CUST0092,EMP003,2023-04-14,Bhopal,Central,Ananya Singh,Debit Card,Delivered
+ORD0229,CUST0060,EMP003,2023-09-15,Pune,West,Ananya Singh,Net Banking,Delivered
+ORD0230,CUST0042,EMP002,2023-05-21,Hyderabad,South,Priya Das,Net Banking,Delivered
+ORD0231,CUST0064,EMP002,2024-03-18,Mumbai,West,Priya Das,Credit Card,Delivered
+ORD0232,CUST0051,EMP002,2023-10-30,Jaipur,North,Priya Das,Net Banking,Delivered
+ORD0233,CUST0036,EMP007,2024-07-21,Bengaluru,South,Sneha Kapoor,Credit Card,Delivered
+ORD0234,CUST0069,EMP001,2024-05-28,Nagpur,Central,Rohit Sharma,Credit Card,Delivered
+ORD0235,CUST0064,EMP003,2023-02-22,Mumbai,West,Ananya Singh,Credit Card,Delivered
+ORD0236,CUST0057,EMP004,2025-01-03,Pune,West,Kiran Mehta,Credit Card,Cancelled
+ORD0237,CUST0069,EMP003,2024-10-25,Nagpur,Central,Ananya Singh,Cash,Delivered
+ORD0238,CUST0054,EMP002,2024-06-27,Jaipur,North,Priya Das,Cash,Delivered
+ORD0239,CUST0093,EMP008,2025-05-12,Mumbai,West,Arjun Nair,Net Banking,Delivered
+ORD0240,CUST0024,EMP003,2023-05-11,Nagpur,Central,Ananya Singh,UPI,Delivered
+ORD0241,CUST0034,EMP006,2025-01-11,Kanpur,North,Aman Verma,Net Banking,Cancelled
+ORD0242,CUST0061,EMP007,2023-08-12,Chennai,South,Sneha Kapoor,UPI,Cancelled
+ORD0243,CUST0061,EMP001,2024-03-29,Chennai,South,Rohit Sharma,Net Banking,Delivered
+ORD0244,CUST0026,EMP008,2025-12-03,Bengaluru,South,Arjun Nair,Debit Card,Delivered
+ORD0245,CUST0051,EMP002,2023-03-05,Jaipur,North,Priya Das,Cash,Delivered
+ORD0246,CUST0087,EMP007,2025-04-02,Indore,Central,Sneha Kapoor,UPI,Returned
+ORD0247,CUST0007,EMP008,2023-08-10,Indore,Central,Arjun Nair,UPI,Returned
+ORD0248,CUST0043,EMP008,2025-06-27,Kanpur,North,Arjun Nair,Cash,Delivered
+ORD0249,CUST0076,EMP006,2024-10-21,Lucknow,North,Aman Verma,Net Banking,Delivered
+ORD0250,CUST0078,EMP005,2023-05-15,Jaipur,North,Vivek Rao,Credit Card,Delivered
+ORD0251,CUST0085,EMP005,2024-10-27,Ahmedabad,West,Vivek Rao,UPI,Cancelled
+ORD0252,CUST0017,EMP002,2025-12-22,Indore,Central,Priya Das,Debit Card,Delivered
+ORD0253,CUST0044,EMP006,2025-11-01,Nagpur,Central,Aman Verma,Net Banking,Delivered
+ORD0254,CUST0097,EMP002,2023-07-23,Hyderabad,South,Priya Das,Cash,Pending
+ORD0255,CUST0057,EMP002,2024-03-16,Pune,West,Priya Das,UPI,Delivered
+ORD0256,CUST0060,EMP003,2024-04-12,Pune,West,Ananya Singh,UPI,Delivered
+ORD0257,CUST0082,EMP001,2025-07-17,Lucknow,North,Rohit Sharma,UPI,Delivered
+ORD0258,CUST0064,EMP007,2023-07-14,Mumbai,West,Sneha Kapoor,Debit Card,Delivered
+ORD0259,CUST0098,EMP005,2024-10-02,Bengaluru,South,Vivek Rao,Debit Card,Delivered
+ORD0260,CUST0032,EMP003,2023-11-09,Jaipur,North,Ananya Singh,UPI,Delivered
+ORD0261,CUST0078,EMP003,2023-07-06,Jaipur,North,Ananya Singh,Cash,Delivered
+ORD0262,CUST0070,EMP006,2025-06-03,Chennai,South,Aman Verma,Cash,Returned
+ORD0263,CUST0066,EMP004,2025-02-02,Ahmedabad,West,Kiran Mehta,Credit Card,Cancelled
+ORD0264,CUST0001,EMP008,2023-05-03,Nagpur,Central,Arjun Nair,Net Banking,Cancelled
+ORD0265,CUST0112,EMP005,2024-11-06,Kanpur,North,Vivek Rao,Cash,Delivered
+ORD0266,CUST0093,EMP007,2024-12-25,Mumbai,West,Sneha Kapoor,UPI,Pending
+ORD0267,CUST0003,EMP002,2023-04-16,Lucknow,North,Priya Das,Debit Card,Cancelled
+ORD0268,CUST0073,EMP003,2024-10-01,Indore,Central,Ananya Singh,Debit Card,Delivered
+ORD0269,CUST0033,EMP008,2025-11-05,Mumbai,West,Arjun Nair,Credit Card,Delivered
+ORD0270,CUST0116,EMP007,2025-09-14,Kolkata,East,Sneha Kapoor,Credit Card,Pending
+ORD0271,CUST0094,EMP001,2023-08-10,Kolkata,East,Rohit Sharma,Debit Card,Pending
+ORD0272,CUST0068,EMP006,2025-01-22,Kolkata,East,Aman Verma,Cash,Pending
+ORD0273,CUST0014,EMP006,2024-07-24,Chennai,South,Aman Verma,Net Banking,Delivered
+ORD0274,CUST0051,EMP002,2025-05-28,Jaipur,North,Priya Das,Net Banking,Pending
+ORD0275,CUST0104,EMP001,2023-02-23,Bengaluru,South,Rohit Sharma,Net Banking,Returned
+ORD0276,CUST0090,EMP002,2024-07-01,Chennai,South,Priya Das,Cash,Delivered
+ORD0277,CUST0096,EMP003,2024-07-13,Delhi,North,Ananya Singh,Debit Card,Delivered
+ORD0278,CUST0032,EMP001,2024-12-19,Jaipur,North,Rohit Sharma,Cash,Delivered
+ORD0279,CUST0074,EMP002,2023-10-21,Delhi,North,Priya Das,Net Banking,Returned
+ORD0280,CUST0050,EMP007,2025-03-31,Chennai,South,Sneha Kapoor,Cash,Delivered
+ORD0281,CUST0065,EMP008,2023-03-04,Kanpur,North,Arjun Nair,Cash,Returned
+ORD0282,CUST0052,EMP002,2025-12-22,Delhi,North,Priya Das,Credit Card,Delivered
+ORD0283,CUST0032,EMP002,2025-05-09,Jaipur,North,Priya Das,UPI,Delivered
+ORD0284,CUST0065,EMP001,2023-11-19,Kanpur,North,Rohit Sharma,Debit Card,Delivered
+ORD0285,CUST0115,EMP004,2024-10-26,Delhi,North,Kiran Mehta,Net Banking,Cancelled
+ORD0286,CUST0120,EMP008,2023-06-23,Kanpur,North,Arjun Nair,Cash,Delivered
+ORD0287,CUST0118,EMP008,2023-11-19,Pune,West,Arjun Nair,Net Banking,Delivered
+ORD0288,CUST0092,EMP003,2023-06-17,Bhopal,Central,Ananya Singh,Debit Card,Delivered
+ORD0289,CUST0051,EMP001,2025-05-18,Jaipur,North,Rohit Sharma,UPI,Cancelled
+ORD0290,CUST0058,EMP003,2025-06-24,Pune,West,Ananya Singh,UPI,Delivered
+ORD0291,CUST0060,EMP005,2024-03-17,Pune,West,Vivek Rao,Net Banking,Delivered
+ORD0292,CUST0011,EMP008,2024-12-07,DELHI,East,Arjun Nair,UPI,Delivered
+ORD0293,CUST0076,EMP002,2024-08-03,Lucknow,North,Priya Das,Net Banking,Delivered
+ORD0294,CUST0109,EMP007,2025-12-15,Chennai,South,Sneha Kapoor,Debit Card,Delivered
+ORD0295,CUST0109,EMP005,2024-03-27,Chennai,South,Vivek Rao,UPI,Cancelled
+ORD0296,CUST0079,EMP006,2023-04-23,Bhopal,Central,Aman Verma,Cash,Delivered
+ORD0297,CUST0012,EMP004,2024-09-09,Delhi,North,Kiran Mehta,Credit Card,Pending
+ORD0298,CUST0023,EMP008,2023-10-09,Kolkata,East,Arjun Nair,Debit Card,Delivered
+ORD0299,CUST0008,EMP007,2024-11-02,Pune,West,Sneha Kapoor,Cash,Delivered
+ORD0300,CUST0057,EMP002,2025-10-15,Pune,West,Priya Das,UPI,Delivered
+ORD0301,CUST0073,EMP006,2023-09-22,Indore,Central,Aman Verma,UPI,Cancelled
+ORD0302,CUST0056,EMP007,2024-04-16,Ahmedabad,West,Sneha Kapoor,Net Banking,Cancelled
+ORD0303,CUST0051,EMP001,2024-12-26,Jaipur,North,Rohit Sharma,Cash,Delivered
+ORD0304,CUST0038,EMP007,2023-03-28,Bhopal,Central,Sneha Kapoor,UPI,Delivered
+ORD0305,CUST0008,EMP008,2025-07-30,Pune,West,Arjun Nair,Cash,Pending
+ORD0306,CUST0028,EMP008,2024-10-03,Hyderabad,South,Arjun Nair,Net Banking,Delivered
+ORD0307,CUST0088,EMP005,2025-04-08,Bengaluru,South,Vivek Rao,UPI,Delivered
+ORD0308,CUST0044,EMP002,2023-08-24,Nagpur,Central,Priya Das,UPI,Delivered
+ORD0309,CUST0053,EMP006,2024-10-27,Kanpur,North,Aman Verma,Credit Card,Pending
+ORD0310,CUST0072,EMP008,2025-07-31,Mumbai,West,Arjun Nair,Debit Card,Delivered
+ORD0311,CUST0021,EMP006,2025-06-13,Bhopal,Central,Aman Verma,Cash,Delivered
+ORD0312,CUST0108,EMP007,2025-06-11,Kolkata,East,Sneha Kapoor,Net Banking,Delivered
+ORD0313,CUST0099,EMP004,2025-12-09,Kanpur,North,Kiran Mehta,Cash,Delivered
+ORD0314,CUST0021,EMP004,2024-09-27,Bhopal,Central,Kiran Mehta,Debit Card,Delivered
+ORD0315,CUST0041,EMP003,2024-11-13,Hyderabad,South,Ananya Singh,Credit Card,Delivered
+ORD0316,CUST0071,EMP002,2025-11-11,Nagpur,Central,Priya Das,Cash,Cancelled
+ORD0317,CUST0046,EMP005,2025-11-10,Bengaluru,South,Vivek Rao,Credit Card,Pending
+ORD0318,CUST0086,EMP001,2024-12-16,Patna,East,Rohit Sharma,Debit Card,Returned
+ORD0319,CUST0112,EMP001,2023-10-30,Kanpur,North,Rohit Sharma,Credit Card,Delivered
+ORD0320,CUST0071,EMP003,2023-10-27,Nagpur,Central,Ananya Singh,Debit Card,Delivered
+ORD0321,CUST0068,EMP004,2023-12-22,Kolkata,East,Kiran Mehta,Net Banking,Delivered
+ORD0322,CUST0090,EMP008,2023-06-04,Chennai,South,Arjun Nair,Credit Card,Pending
+ORD0323,CUST0055,EMP007,2025-10-08,Jaipur,North,Sneha Kapoor,UPI,Pending
+ORD0324,CUST0105,EMP001,2025-07-08,Bhopal,Central,Rohit Sharma,Net Banking,Returned
+ORD0325,CUST0109,EMP001,2024-10-23,Chennai,South,Rohit Sharma,Debit Card,Delivered
+ORD0326,CUST0112,EMP007,2025-06-19,Kanpur,North,Sneha Kapoor,Cash,Delivered
+ORD0327,CUST0100,EMP007,2025-06-24,Bhopal,Central,Sneha Kapoor,Debit Card,Pending
+ORD0328,CUST0030,EMP003,2024-07-16,Bhopal,Central,Ananya Singh,Net Banking,Delivered
+ORD0329,CUST0001,EMP008,2024-12-21,Nagpur,Central,Arjun Nair,Net Banking,Delivered
+ORD0330,CUST0084,EMP003,2024-09-27,Delhi,North,Ananya Singh,UPI,Delivered
+ORD0331,CUST0021,EMP005,2023-03-19,Bhopal,Central,Vivek Rao,Cash,Delivered
+ORD0332,CUST0067,EMP006,2024-08-10,Mumbai,West,Aman Verma,Cash,Returned
+ORD0333,CUST0112,EMP007,2023-07-04,Kanpur,North,Sneha Kapoor,Net Banking,Cancelled
+ORD0334,CUST0040,EMP008,2025-11-04,Patna,East,Arjun Nair,UPI,Delivered
+ORD0335,CUST0065,EMP005,2023-03-26,Kanpur,North,Vivek Rao,UPI,Pending
+ORD0336,CUST0095,EMP002,2024-01-21,Nagpur,Central,Priya Das,Debit Card,Cancelled
+ORD0337,CUST0045,EMP005,2025-09-01,Jaipur,North,Vivek Rao,Net Banking,Delivered
+ORD0338,CUST0006,EMP006,2023-05-07,  mumbai ,South,Aman Verma,UPI,Delivered
+ORD0339,CUST0087,EMP007,2024-12-04,Indore,Central,Sneha Kapoor,Cash,Cancelled
+ORD0340,CUST0027,EMP005,2023-12-20,Kolkata,East,Vivek Rao,Cash,Delivered
+ORD0341,CUST0045,EMP003,2025-06-15,Jaipur,North,Ananya Singh,UPI,Cancelled
+ORD0342,CUST0100,EMP006,2025-12-06,Bhopal,Central,Aman Verma,Net Banking,Delivered
+ORD0343,CUST0040,EMP002,2025-01-15,Patna,East,Priya Das,Debit Card,Delivered
+ORD0344,CUST0060,EMP002,2025-03-04,Pune,West,Priya Das,UPI,Pending
+ORD0345,CUST0083,EMP002,2024-11-23,Jaipur,North,Priya Das,Net Banking,Delivered
+ORD0346,CUST0111,EMP006,2024-11-16,Bhopal,Central,Aman Verma,Cash,Delivered
+ORD0347,CUST0099,EMP003,2023-07-13,Kanpur,North,Ananya Singh,Net Banking,Returned
+ORD0348,CUST0072,EMP007,2025-03-02,Mumbai,West,Sneha Kapoor,Debit Card,Delivered
+ORD0349,CUST0047,EMP002,2023-11-04,Chennai,South,Priya Das,Debit Card,Delivered
+ORD0350,CUST0097,EMP006,2023-10-17,Hyderabad,South,Aman Verma,Debit Card,Delivered
+ORD0351,CUST0064,EMP007,2025-03-13,Mumbai,West,Sneha Kapoor,Credit Card,Cancelled
+ORD0352,CUST0032,EMP004,2023-06-23,Jaipur,North,Kiran Mehta,Debit Card,Cancelled
+ORD0353,CUST0058,EMP007,2025-02-10,Pune,West,Sneha Kapoor,Debit Card,Pending
+ORD0354,CUST0096,EMP007,2023-09-19,Delhi,North,Sneha Kapoor,Net Banking,Delivered
+ORD0355,CUST0084,EMP008,2025-05-17,Delhi,North,Arjun Nair,Net Banking,Delivered
+ORD0356,CUST0085,EMP002,2023-02-07,Ahmedabad,West,Priya Das,Debit Card,Delivered
+ORD0357,CUST0005,EMP008,2024-01-05,Jaipur,North,Arjun Nair,Credit Card,Delivered
+ORD0358,CUST0030,EMP002,2025-09-22,Bhopal,Central,Priya Das,Credit Card,Delivered
+ORD0359,CUST0107,EMP008,2023-10-09,Ahmedabad,West,Arjun Nair,Credit Card,Delivered
+ORD0360,CUST0111,EMP007,2024-08-28,Bhopal,Central,Sneha Kapoor,Cash,Cancelled
+ORD0361,CUST0034,EMP004,2025-12-14,Kanpur,North,Kiran Mehta,Cash,Returned
+ORD0362,CUST0088,EMP006,2024-11-20,Bengaluru,South,Aman Verma,Net Banking,Delivered
+ORD0363,CUST0115,EMP003,2025-02-10,Delhi,North,Ananya Singh,Credit Card,Delivered
+ORD0364,CUST0019,EMP007,2024-01-06,Bhopal,Central,Sneha Kapoor,Net Banking,Pending
+ORD0365,CUST0072,EMP007,2023-12-06,Mumbai,West,Sneha Kapoor,UPI,Delivered
+ORD0366,CUST0015,EMP001,2025-04-21,Kolkata,East,Rohit Sharma,Debit Card,Returned
+ORD0367,CUST0050,EMP005,2024-05-01,Chennai,South,Vivek Rao,UPI,Cancelled
+ORD0368,CUST0003,EMP008,2024-08-06,Lucknow,North,Arjun Nair,UPI,Delivered
+ORD0369,CUST0016,EMP005,2025-12-29,Delhi,North,Vivek Rao,Credit Card,Delivered
+ORD0370,CUST0054,EMP008,2025-08-18,Jaipur,North,Arjun Nair,Credit Card,Delivered
+ORD0371,CUST0044,EMP003,2025-06-21,Nagpur,Central,Ananya Singh,UPI,Pending
+ORD0372,CUST0059,EMP006,2024-07-31,Indore,Central,Aman Verma,UPI,Cancelled
+ORD0373,CUST0073,EMP003,2025-12-16,Indore,Central,Ananya Singh,UPI,Delivered
+ORD0374,CUST0101,EMP008,2024-02-13,Patna,East,Arjun Nair,Net Banking,Delivered
+ORD0375,CUST0041,EMP008,2024-05-27,Hyderabad,South,Arjun Nair,Cash,Returned
+ORD0376,CUST0120,EMP001,2025-09-11,Kanpur,North,Rohit Sharma,Debit Card,Cancelled
+ORD0377,CUST0009,EMP005,2023-07-30,Patna,East,Vivek Rao,Net Banking,Pending
+ORD0378,CUST0076,EMP006,2023-09-13,Lucknow,North,Aman Verma,Debit Card,Delivered
+ORD0379,CUST0070,EMP004,2023-11-25,Chennai,South,Kiran Mehta,Debit Card,Delivered
+ORD0380,CUST0027,EMP002,2025-11-17,Kolkata,East,Priya Das,Credit Card,Pending
+ORD0381,CUST0016,EMP003,2025-06-14,Delhi,North,Ananya Singh,Cash,Delivered
+ORD0382,CUST0045,EMP007,2025-07-12,Jaipur,North,Sneha Kapoor,Debit Card,Delivered
+ORD0383,CUST0091,EMP007,2025-04-29,Ahmedabad,West,Sneha Kapoor,Cash,Delivered
+ORD0384,CUST0078,EMP008,2025-10-25,Jaipur,North,Arjun Nair,Debit Card,Delivered
+ORD0385,CUST0007,EMP008,2025-03-01,Indore,Central,Arjun Nair,Cash,Delivered
+ORD0386,CUST0112,EMP006,2024-04-04,Kanpur,North,Aman Verma,Cash,Delivered
+ORD0387,CUST0100,EMP008,2023-07-22,Bhopal,Central,Arjun Nair,Debit Card,Pending
+ORD0388,CUST0084,EMP005,2023-10-27,Delhi,North,Vivek Rao,Credit Card,Delivered
+ORD0389,CUST0101,EMP006,2024-08-10,Patna,East,Aman Verma,UPI,Returned
+ORD0390,CUST0068,EMP003,2023-10-12,Kolkata,East,Ananya Singh,UPI,Delivered
+ORD0391,CUST0106,EMP001,2023-01-11,Nagpur,Central,Rohit Sharma,Cash,Delivered
+ORD0392,CUST0026,EMP006,2024-06-08,Bengaluru,South,Aman Verma,Credit Card,Pending
+ORD0393,CUST0017,EMP002,2023-11-03,Indore,Central,Priya Das,Net Banking,Returned
+ORD0394,CUST0044,EMP006,2025-12-16,Nagpur,Central,Aman Verma,UPI,Delivered
+ORD0395,CUST0024,EMP006,2024-08-13,Nagpur,Central,Aman Verma,Credit Card,Delivered
+ORD0396,CUST0080,EMP004,2023-09-07,Bengaluru,South,Kiran Mehta,Cash,Delivered
+ORD0397,CUST0052,EMP001,2025-05-09,Delhi,North,Rohit Sharma,Net Banking,Delivered
+ORD0398,CUST0115,EMP004,2023-05-09,Delhi,North,Kiran Mehta,Cash,Pending
+ORD0399,CUST0100,EMP003,2025-10-20,Bhopal,Central,Ananya Singh,Net Banking,Cancelled
+ORD0400,CUST0081,EMP006,2023-02-03,Hyderabad,South,Aman Verma,Net Banking,Cancelled
+ORD0401,CUST0028,EMP002,2024-05-10,Hyderabad,South,Priya Das,Credit Card,Delivered
+ORD0402,CUST0055,EMP006,2025-05-29,Jaipur,North,Aman Verma,Cash,Cancelled
+ORD0403,CUST0016,EMP007,2024-12-23,Delhi,North,Sneha Kapoor,Credit Card,Cancelled
+ORD0404,CUST0093,EMP004,2025-05-03,Mumbai,West,Kiran Mehta,Credit Card,Returned
+ORD0405,CUST0037,EMP001,2023-06-25,Patna,East,Rohit Sharma,Net Banking,Delivered
+ORD0406,CUST0015,EMP008,2023-05-19,Kolkata,East,Arjun Nair,Net Banking,Cancelled
+ORD0407,CUST0005,EMP006,2025-11-05,Jaipur,North,Aman Verma,Net Banking,Cancelled
+ORD0408,CUST0099,EMP007,2023-02-11,Kanpur,North,Sneha Kapoor,UPI,Pending
+ORD0409,CUST0043,EMP001,2025-08-20,Kanpur,North,Rohit Sharma,Cash,Returned
+ORD0410,CUST0057,EMP001,2025-03-03,Pune,West,Rohit Sharma,Debit Card,Delivered
+ORD0411,CUST0073,EMP003,2023-02-03,Indore,Central,Ananya Singh,Debit Card,Pending
+ORD0412,CUST0024,EMP007,2023-05-19,Nagpur,Central,Sneha Kapoor,Debit Card,Delivered
+ORD0413,CUST0004,EMP002,2023-08-01,Chennai,South,Priya Das,Net Banking,Returned
+ORD0414,CUST0075,EMP002,2024-11-11,Bhopal,Central,Priya Das,Credit Card,Delivered
+ORD0415,CUST0065,EMP005,2024-12-22,Kanpur,North,Vivek Rao,Net Banking,Delivered
+ORD0416,CUST0057,EMP008,2023-12-25,Pune,West,Arjun Nair,UPI,Returned
+ORD0417,CUST0113,EMP001,2025-09-07,Mumbai,West,Rohit Sharma,Credit Card,Pending
+ORD0418,CUST0059,EMP007,2023-10-04,Indore,Central,Sneha Kapoor,Cash,Returned
+ORD0419,CUST0104,EMP007,2025-07-26,Bengaluru,South,Sneha Kapoor,Cash,Delivered
+ORD0420,CUST0016,EMP008,2024-02-17,Delhi,North,Arjun Nair,Cash,Pending
+ORD0421,CUST0081,EMP002,2024-02-13,Hyderabad,South,Priya Das,Cash,Delivered
+ORD0422,CUST0118,EMP006,2024-09-27,Pune,West,Aman Verma,Net Banking,Delivered
+ORD0423,CUST0033,EMP008,2025-08-27,Mumbai,West,Arjun Nair,Debit Card,Delivered
+ORD0424,CUST0077,EMP004,2024-01-27,Lucknow,North,Kiran Mehta,Debit Card,Delivered
+ORD0425,CUST0069,EMP006,2023-04-08,Nagpur,Central,Aman Verma,Debit Card,Delivered
+ORD0426,CUST0061,EMP005,2023-09-12,Chennai,South,Vivek Rao,Debit Card,Delivered
+ORD0427,CUST0119,EMP003,2025-03-30,Hyderabad,South,Ananya Singh,UPI,Delivered
+ORD0428,CUST0029,EMP007,2024-11-25,Delhi,North,Sneha Kapoor,Credit Card,Delivered
+ORD0429,CUST0093,EMP008,2025-10-15,Mumbai,West,Arjun Nair,Debit Card,Pending
+ORD0430,CUST0045,EMP005,2025-11-29,Jaipur,North,Vivek Rao,Debit Card,Pending
+ORD0431,CUST0102,EMP004,2023-06-19,Nagpur,Central,Kiran Mehta,UPI,Delivered
+ORD0432,CUST0109,EMP003,2025-05-31,Chennai,South,Ananya Singh,Net Banking,Pending
+ORD0433,CUST0072,EMP004,2024-01-05,Mumbai,West,Kiran Mehta,Net Banking,Delivered
+ORD0434,CUST0056,EMP004,2024-10-19,Ahmedabad,West,Kiran Mehta,Cash,Delivered
+ORD0435,CUST0090,EMP001,2024-11-02,Chennai,South,Rohit Sharma,Debit Card,Delivered
+ORD0436,CUST0025,EMP006,2025-07-02,Kanpur,North,Aman Verma,Net Banking,Returned
+ORD0437,CUST0075,EMP008,2025-05-22,Bhopal,Central,Arjun Nair,Credit Card,Returned
+ORD0438,CUST0093,EMP004,2025-06-28,Mumbai,West,Kiran Mehta,Debit Card,Delivered
+ORD0439,CUST0073,EMP006,2023-03-28,Indore,Central,Aman Verma,Debit Card,Cancelled
+ORD0440,CUST0063,EMP004,2025-06-09,Indore,Central,Kiran Mehta,Debit Card,Returned
+ORD0441,CUST0042,EMP002,2023-04-28,Hyderabad,South,Priya Das,Cash,Returned
+ORD0442,CUST0120,EMP002,2025-04-11,Kanpur,North,Priya Das,Debit Card,Cancelled
+ORD0443,CUST0021,EMP007,2023-11-24,Bhopal,Central,Sneha Kapoor,Cash,Delivered
+ORD0444,CUST0064,EMP004,2025-06-16,Mumbai,West,Kiran Mehta,Cash,Delivered
+ORD0445,CUST0007,EMP003,2023-05-18,Indore,Central,Ananya Singh,Credit Card,Pending
+ORD0446,CUST0112,EMP005,2025-01-20,Kanpur,North,Vivek Rao,Debit Card,Delivered
+ORD0447,CUST0022,EMP006,2023-03-08,Indore,Central,Aman Verma,Net Banking,Delivered
+ORD0448,CUST0116,EMP001,2025-07-10,Kolkata,East,Rohit Sharma,Debit Card,Delivered
+ORD0449,CUST0097,EMP004,2025-06-28,Hyderabad,South,Kiran Mehta,Cash,Cancelled
+ORD0450,CUST0042,EMP004,2023-10-09,Hyderabad,South,Kiran Mehta,Net Banking,Delivered
+ORD0451,CUST0095,EMP007,2025-03-26,Nagpur,Central,Sneha Kapoor,Debit Card,Returned
+ORD0452,CUST0030,EMP002,2024-07-24,Bhopal,Central,Priya Das,Credit Card,Delivered
+ORD0453,CUST0046,EMP003,2023-02-23,Bengaluru,South,Ananya Singh,Credit Card,Delivered
+ORD0454,CUST0034,EMP007,2025-11-26,Kanpur,North,Sneha Kapoor,UPI,Cancelled
+ORD0455,CUST0080,EMP003,2023-08-30,Bengaluru,South,Ananya Singh,Debit Card,Pending
+ORD0456,CUST0117,EMP006,2024-06-17,Jaipur,North,Aman Verma,UPI,Delivered
+ORD0457,CUST0070,EMP007,2024-08-07,Chennai,South,Sneha Kapoor,UPI,Delivered
+ORD0458,CUST0036,EMP008,2023-09-09,Bengaluru,South,Arjun Nair,Credit Card,Pending
+ORD0459,CUST0003,EMP005,2023-06-01,Lucknow,North,Vivek Rao,UPI,Delivered
+ORD0460,CUST0095,EMP005,2025-06-30,Nagpur,Central,Vivek Rao,Cash,Pending
+ORD0461,CUST0037,EMP008,2024-10-16,Patna,East,Arjun Nair,Debit Card,Returned
+ORD0462,CUST0048,EMP001,2023-05-13,Kolkata,East,Rohit Sharma,Net Banking,Cancelled
+ORD0463,CUST0109,EMP001,2024-08-17,Chennai,South,Rohit Sharma,Debit Card,Pending
+ORD0464,CUST0109,EMP006,2023-11-19,Chennai,South,Aman Verma,Credit Card,Pending
+ORD0465,CUST0068,EMP002,2025-01-10,Kolkata,East,Priya Das,Net Banking,Delivered
+ORD0466,CUST0096,EMP002,2023-09-06,Delhi,North,Priya Das,Credit Card,Pending
+ORD0467,CUST0075,EMP008,2023-10-12,Bhopal,Central,Arjun Nair,Credit Card,Pending
+ORD0468,CUST0037,EMP003,2025-10-08,Patna,East,Ananya Singh,Cash,Delivered
+ORD0469,CUST0004,EMP006,2025-01-25,Chennai,South,Aman Verma,UPI,Pending
+ORD0470,CUST0114,EMP003,2023-09-23,Nagpur,Central,Ananya Singh,Net Banking,Delivered
+ORD0471,CUST0033,EMP005,2023-05-15,Mumbai,West,Vivek Rao,Debit Card,Delivered
+ORD0472,CUST0091,EMP005,2025-09-07,Ahmedabad,West,Vivek Rao,Net Banking,Delivered
+ORD0473,CUST0026,EMP005,2025-04-18,Bengaluru,South,Vivek Rao,Net Banking,Delivered
+ORD0474,CUST0062,EMP003,2023-09-14,Pune,West,Ananya Singh,Debit Card,Returned
+ORD0475,CUST0119,EMP008,2023-06-01,Hyderabad,South,Arjun Nair,UPI,Delivered
+ORD0476,CUST0093,EMP001,2025-11-25,Mumbai,West,Rohit Sharma,Debit Card,Delivered
+ORD0477,CUST0034,EMP003,2024-01-08,Kanpur,North,Ananya Singh,Credit Card,Delivered
+ORD0478,CUST0031,EMP006,2025-10-26,Delhi,North,Aman Verma,Cash,Pending
+ORD0479,CUST0041,EMP004,2023-09-12,Hyderabad,South,Kiran Mehta,Net Banking,Delivered
+ORD0480,CUST0104,EMP002,2024-09-14,Bengaluru,South,Priya Das,Credit Card,Delivered
+ORD0481,CUST0034,EMP003,2024-10-22,Kanpur,North,Ananya Singh,Credit Card,Delivered
+ORD0482,CUST0047,EMP005,2025-11-28,Chennai,South,Vivek Rao,Debit Card,Pending
+ORD0483,CUST0033,EMP003,2023-06-11,Mumbai,West,Ananya Singh,Debit Card,Delivered
+ORD0484,CUST0074,EMP001,2024-07-16,Delhi,North,Rohit Sharma,Credit Card,Returned
+ORD0485,CUST0002,EMP008,2024-09-12,Nagpur,Central,Arjun Nair,Net Banking,Cancelled
+ORD0486,CUST0009,EMP008,2023-07-11,Patna,East,Arjun Nair,Net Banking,Returned
+ORD0487,CUST0016,EMP003,2023-12-12,Delhi,North,Ananya Singh,Net Banking,Cancelled
+ORD0488,CUST0117,EMP004,2023-11-12,Jaipur,North,Kiran Mehta,Credit Card,Returned
+ORD0489,CUST0114,EMP008,2024-11-22,Nagpur,Central,Arjun Nair,Net Banking,Delivered
+ORD0490,CUST0110,EMP003,2023-02-28,Delhi,North,Ananya Singh,Cash,Delivered
+ORD0491,CUST0051,EMP001,2024-06-26,Jaipur,North,Rohit Sharma,Credit Card,Pending
+ORD0492,CUST0105,EMP004,2025-05-03,Bhopal,Central,Kiran Mehta,Net Banking,Returned
+ORD0493,CUST0089,EMP006,2023-03-04,Jaipur,North,Aman Verma,UPI,Returned
+ORD0494,CUST0004,EMP004,2024-08-16,Chennai,South,Kiran Mehta,Debit Card,Delivered
+ORD0495,CUST0038,EMP007,2024-05-16,Bhopal,Central,Sneha Kapoor,UPI,Delivered
+ORD0496,CUST0085,EMP008,2025-07-17,Ahmedabad,West,Arjun Nair,Cash,Returned
+ORD0497,CUST0044,EMP001,2023-05-03,Nagpur,Central,Rohit Sharma,Credit Card,Delivered
+ORD0498,CUST0088,EMP002,2025-05-01,Bengaluru,South,Priya Das,UPI,Delivered
+ORD0499,CUST0005,EMP001,2024-02-22,Jaipur,North,Rohit Sharma,Debit Card,Cancelled
+ORD0500,CUST0024,EMP008,2023-10-22,Nagpur,Central,Arjun Nair,Debit Card,Pending
+ORD0501,CUST0106,EMP007,2024-10-15,Nagpur,Central,Sneha Kapoor,Debit Card,Delivered
+ORD0502,CUST0047,EMP005,2023-09-25,Chennai,South,Vivek Rao,Debit Card,Cancelled
+ORD0503,CUST0045,EMP005,2023-08-06,Jaipur,North,Vivek Rao,Debit Card,Delivered
+ORD0504,CUST0022,EMP003,2025-08-13,Indore,Central,Ananya Singh,Cash,Delivered
+ORD0505,CUST0093,EMP001,2025-07-09,Mumbai,West,Rohit Sharma,Credit Card,Delivered
+ORD0506,CUST0010,EMP002,2023-07-18,Delhi,North,Priya Das,Cash,Delivered
+ORD0507,CUST0097,EMP004,2025-02-25,Hyderabad,South,Kiran Mehta,Net Banking,Delivered
+ORD0508,CUST0035,EMP005,2024-05-23,Bhopal,Central,Vivek Rao,Credit Card,Pending
+ORD0509,CUST0104,EMP004,2024-11-01,Bengaluru,South,Kiran Mehta,Net Banking,Returned
+ORD0510,CUST0076,EMP005,2024-10-02,Lucknow,North,Vivek Rao,Credit Card,Pending
+ORD0511,CUST0041,EMP006,2023-11-23,Hyderabad,South,Aman Verma,UPI,Cancelled
+ORD0512,CUST0032,EMP008,2025-08-14,Jaipur,North,Arjun Nair,UPI,Delivered
+ORD0513,CUST0013,EMP005,2025-10-15,Indore,Central,Vivek Rao,Cash,Delivered
+ORD0514,CUST0043,EMP001,2025-03-16,Kanpur,North,Rohit Sharma,Net Banking,Delivered
+ORD0515,CUST0074,EMP005,2024-05-08,Delhi,North,Vivek Rao,Credit Card,Cancelled
+ORD0516,CUST0100,EMP007,2024-12-23,Bhopal,Central,Sneha Kapoor,Cash,Delivered
+ORD0517,CUST0058,EMP006,2024-07-30,Pune,West,Aman Verma,UPI,Cancelled
+ORD0518,CUST0030,EMP006,2025-08-21,Bhopal,Central,Aman Verma,Debit Card,Cancelled
+ORD0519,CUST0043,EMP004,2023-01-17,Kanpur,North,Kiran Mehta,Cash,Delivered
+ORD0520,CUST0035,EMP004,2023-10-02,Bhopal,Central,Kiran Mehta,Debit Card,Returned
+ORD0521,CUST0066,EMP005,2025-01-19,Ahmedabad,West,Vivek Rao,UPI,Delivered
+ORD0522,CUST0037,EMP002,2023-04-03,Patna,East,Priya Das,UPI,Delivered
+ORD0523,CUST0070,EMP005,2024-02-03,Chennai,South,Vivek Rao,Debit Card,Cancelled
+ORD0524,CUST0078,EMP002,2024-08-14,Jaipur,North,Priya Das,Cash,Delivered
+ORD0525,CUST0096,EMP007,2025-10-29,Delhi,North,Sneha Kapoor,UPI,Pending
+ORD0526,CUST0103,EMP005,2024-07-26,Bengaluru,South,Vivek Rao,Net Banking,Returned
+ORD0527,CUST0054,EMP002,2023-09-01,Jaipur,North,Priya Das,Credit Card,Delivered
+ORD0528,CUST0104,EMP002,2025-03-17,Bengaluru,South,Priya Das,Debit Card,Pending
+ORD0529,CUST0052,EMP001,2024-11-25,Delhi,North,Rohit Sharma,Net Banking,Delivered
+ORD0530,CUST0056,EMP004,2023-10-23,Ahmedabad,West,Kiran Mehta,Credit Card,Cancelled
+ORD0531,CUST0028,EMP004,2025-11-08,Hyderabad,South,Kiran Mehta,UPI,Cancelled
+ORD0532,CUST0120,EMP007,2023-03-24,Kanpur,North,Sneha Kapoor,Cash,Delivered
+ORD0533,CUST0093,EMP004,2023-10-08,Mumbai,West,Kiran Mehta,Debit Card,Pending
+ORD0534,CUST0073,EMP007,2025-08-28,Indore,Central,Sneha Kapoor,Net Banking,Delivered
+ORD0535,CUST0119,EMP006,2023-11-02,Hyderabad,South,Aman Verma,Net Banking,Cancelled
+ORD0536,CUST0088,EMP003,2023-10-14,Bengaluru,South,Ananya Singh,Debit Card,Cancelled
+ORD0537,CUST0062,EMP004,2024-10-14,Pune,West,Kiran Mehta,Credit Card,Delivered
+ORD0538,CUST0052,EMP002,2024-09-04,Delhi,North,Priya Das,Net Banking,Delivered
+ORD0539,CUST0092,EMP007,2025-11-04,Bhopal,Central,Sneha Kapoor,Net Banking,Cancelled
+ORD0540,CUST0063,EMP002,2025-09-30,Indore,Central,Priya Das,Net Banking,Delivered
+ORD0541,CUST0048,EMP006,2025-08-30,Kolkata,East,Aman Verma,Cash,Delivered
+ORD0542,CUST0119,EMP002,2024-11-09,Hyderabad,South,Priya Das,Cash,Delivered
+ORD0543,CUST0030,EMP001,2024-09-22,Bhopal,Central,Rohit Sharma,Cash,Cancelled
+ORD0544,CUST0023,EMP001,2025-08-29,Kolkata,East,Rohit Sharma,Debit Card,Returned
+ORD0545,CUST0082,EMP004,2024-04-11,Lucknow,North,Kiran Mehta,Cash,Cancelled
+ORD0546,CUST0063,EMP004,2025-09-10,Indore,Central,Kiran Mehta,Credit Card,Cancelled
+ORD0547,CUST0056,EMP001,2025-02-17,Ahmedabad,West,Rohit Sharma,Credit Card,Pending
+ORD0548,CUST0042,EMP003,2024-05-11,Hyderabad,South,Ananya Singh,Cash,Cancelled
+ORD0549,CUST0119,EMP006,2023-08-14,Hyderabad,South,Aman Verma,Credit Card,Delivered
+ORD0550,CUST0014,EMP004,2025-06-22,Chennai,South,Kiran Mehta,Debit Card,Delivered
+ORD0551,CUST0036,EMP005,2023-11-07,Bengaluru,South,Vivek Rao,UPI,Returned
+ORD0552,CUST0054,EMP002,2024-02-22,Jaipur,North,Priya Das,UPI,Cancelled
+ORD0553,CUST0019,EMP007,2025-08-23,Bhopal,Central,Sneha Kapoor,Cash,Returned
+ORD0554,CUST0064,EMP002,2023-10-10,Mumbai,West,Priya Das,Net Banking,Delivered
+ORD0555,CUST0090,EMP004,2024-10-27,Chennai,South,Kiran Mehta,UPI,Cancelled
+ORD0556,CUST0026,EMP001,2025-02-10,Bengaluru,South,Rohit Sharma,Debit Card,Delivered
+ORD0557,CUST0091,EMP003,2025-07-30,Ahmedabad,West,Ananya Singh,Net Banking,Delivered
+ORD0558,CUST0032,EMP007,2024-12-26,Jaipur,North,Sneha Kapoor,Debit Card,Cancelled
+ORD0559,CUST0039,EMP007,2025-09-18,Chennai,South,Sneha Kapoor,Credit Card,Delivered
+ORD0560,CUST0095,EMP001,2024-07-25,Nagpur,Central,Rohit Sharma,Net Banking,Delivered
+ORD0561,CUST0017,EMP005,2024-04-05,Indore,Central,Vivek Rao,Debit Card,Pending
+ORD0562,CUST0038,EMP002,2024-08-14,Bhopal,Central,Priya Das,Credit Card,Returned
+ORD0563,CUST0089,EMP001,2025-09-28,Jaipur,North,Rohit Sharma,Debit Card,Delivered
+ORD0564,CUST0042,EMP003,2024-12-15,Hyderabad,South,Ananya Singh,Net Banking,Pending
+ORD0565,CUST0100,EMP006,2024-07-14,Bhopal,Central,Aman Verma,Debit Card,Delivered
+ORD0566,CUST0022,EMP007,2025-02-16,Indore,Central,Sneha Kapoor,UPI,Pending
+ORD0567,CUST0034,EMP001,2024-12-07,Kanpur,North,Rohit Sharma,Credit Card,Delivered
+ORD0568,CUST0101,EMP008,2023-03-28,Patna,East,Arjun Nair,Debit Card,Returned
+ORD0569,CUST0095,EMP003,2023-06-11,Nagpur,Central,Ananya Singh,Debit Card,Delivered
+ORD0570,CUST0029,EMP004,2024-06-09,Delhi,North,Kiran Mehta,UPI,Delivered
+ORD0571,CUST0007,EMP002,2024-02-18,Indore,Central,Priya Das,Net Banking,Delivered
+ORD0572,CUST0110,EMP006,2024-07-10,Delhi,North,Aman Verma,Credit Card,Delivered
+ORD0573,CUST0050,EMP004,2024-05-05,Chennai,South,Kiran Mehta,Credit Card,Delivered
+ORD0574,CUST0116,EMP003,2025-12-23,Kolkata,East,Ananya Singh,Credit Card,Returned
+ORD0575,CUST0116,EMP002,2024-04-21,Kolkata,East,Priya Das,Cash,Delivered
+ORD0576,CUST0024,EMP002,2025-04-26,Nagpur,Central,Priya Das,Debit Card,Returned
+ORD0577,CUST0012,EMP005,2025-08-25,Delhi,North,Vivek Rao,Cash,Returned
+ORD0578,CUST0018,EMP006,2023-10-09,Chennai,South,Aman Verma,Cash,Cancelled
+ORD0579,CUST0044,EMP008,2023-11-20,Nagpur,Central,Arjun Nair,UPI,Returned
+ORD0580,CUST0050,EMP005,2025-09-01,Chennai,South,Vivek Rao,UPI,Returned
+ORD0581,CUST0079,EMP001,2024-02-13,Bhopal,Central,Rohit Sharma,Debit Card,Delivered
+ORD0582,CUST0040,EMP002,2024-08-07,Patna,East,Priya Das,Cash,Pending
+ORD0583,CUST0110,EMP001,2023-07-03,Delhi,North,Rohit Sharma,Net Banking,Delivered
+ORD0584,CUST0072,EMP004,2025-12-31,Mumbai,West,Kiran Mehta,Cash,Delivered
+ORD0585,CUST0086,EMP007,2025-05-05,Patna,East,Sneha Kapoor,Credit Card,Delivered
+ORD0586,CUST0040,EMP005,2025-03-24,Patna,East,Vivek Rao,UPI,Delivered
+ORD0587,CUST0063,EMP006,2024-08-15,Indore,Central,Aman Verma,Cash,Delivered
+ORD0588,CUST0033,EMP001,2024-09-03,Mumbai,West,Rohit Sharma,Net Banking,Cancelled
+ORD0589,CUST0089,EMP004,2023-08-08,Jaipur,North,Kiran Mehta,Debit Card,Delivered
+ORD0590,CUST0023,EMP008,2025-07-19,Kolkata,East,Arjun Nair,Net Banking,Cancelled
+ORD0591,CUST0013,EMP007,2025-10-08,Indore,Central,Sneha Kapoor,Credit Card,Pending
+ORD0592,CUST0112,EMP003,2025-10-29,Kanpur,North,Ananya Singh,UPI,Delivered
+ORD0593,CUST0016,EMP001,2024-01-30,Delhi,North,Rohit Sharma,Cash,Delivered
+ORD0594,CUST0077,EMP008,2023-11-29,Lucknow,North,Arjun Nair,UPI,Returned
+ORD0595,CUST0038,EMP008,2024-06-10,Bhopal,Central,Arjun Nair,Credit Card,Delivered
+ORD0596,CUST0055,EMP005,2024-11-21,Jaipur,North,Vivek Rao,Debit Card,Cancelled
+ORD0597,CUST0043,EMP008,2024-01-31,Kanpur,North,Arjun Nair,Credit Card,Cancelled
+ORD0598,CUST0092,EMP001,2025-04-10,Bhopal,Central,Rohit Sharma,UPI,Cancelled
+ORD0599,CUST0113,EMP003,2024-11-02,Mumbai,West,Ananya Singh,Cash,Delivered
+ORD0600,CUST0112,EMP005,2023-07-15,Kanpur,North,Vivek Rao,Credit Card,Delivered
+ORD0447,CUST0022,EMP006,2023-03-08,Indore,Central,Aman Verma,Net Banking,Delivered
+ORD0405,CUST0037,EMP001,2023-06-25,Patna,East,Rohit Sharma,Net Banking,Delivered
+ORD0510,CUST0076,EMP005,2024-10-02,Lucknow,North,Vivek Rao,Credit Card,Pending
+ORD0456,CUST0117,EMP006,2024-06-17,Jaipur,North,Aman Verma,UPI,Delivered
