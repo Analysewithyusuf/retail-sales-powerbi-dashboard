@@ -12,15 +12,15 @@ An end-to-end Power BI project on a 5-table retail dataset (2023-2025): data cle
 
 | Overview | Customer Insights |
 |---|---|
-| ![Overview](screenshots/01_overview.png) | ![Customers](screenshots/02_customer_insights.png) |
+| ![Overview](screenshots/01_Overview.png) | ![Customers](screenshots/02_Customer_insights.png) |
 
 | Product Insights | Sales Team |
 |---|---|
-| ![Products](screenshots/03_product_insights.png) | ![Sales Team](screenshots/04_sales_team.png) |
+| ![Products](screenshots/03_Product_insights.png) | ![Sales Team](screenshots/04_Sales_Team.png) |
 
 **Data Model (Star Schema)**
 
-![Model](screenshots/00_data_model.png)
+![Model](screenshots/00_Data_Model.png)
 
 ## Key Numbers
 | Metric | Value |
