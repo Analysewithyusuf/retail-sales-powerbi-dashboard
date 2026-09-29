@@ -9,18 +9,21 @@ An end-to-end Power BI project on a 5-table retail dataset (2023-2025): data cle
 - How do salespeople compare, and what is the order status split (delivered / cancelled / returned)?
 
 ## Dashboard Preview
-
 | Overview | Customer Insights |
-|---|---|
-| ![Overview](Screenshots/01_Overview.png) | ![Customers](Screenshots/02_Customer_insights.png) |
+| --- | --- |
+| ![Overview](retail-sales-powerbi-dashboard/Screenshots/01_Overview.png.) | ![Customers](retail-sales-powerbi-dashboard/Screenshots/02_Customer_insight.png) |
 
 | Product Insights | Sales Team |
-|---|---|
-| ![Products](Screenshots/03_Product_insights.png) | ![Sales Team](Screenshots/04_Sales_Team.png) |
+| --- | --- |
+| ![Products](retail-sales-powerbi-dashboard/Screenshots/03_Product_insights.png) | ![Sales Team](retail-sales-powerbi-dashboard/Screenshots/04_Sales_Team.png) |
+
+**Customer Detail (drill-through)**
+
+![Customer Details](retail-sales-powerbi-dashboard/Screenshots/CustomerDetails.png)
 
 **Data Model (Star Schema)**
 
-![Model](Screenshots/00_Data_Model.png)
+![Model](retail-sales-powerbi-dashboard/Screenshots/00_Data_Model.png)
 
 ## Key Numbers
 | Metric | Value |
