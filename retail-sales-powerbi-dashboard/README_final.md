@@ -11,16 +11,20 @@ An end-to-end Power BI project on a 5-table retail dataset (2023-2025): data cle
 ## Dashboard Preview
 
 | Overview | Customer Insights |
-|---|---|
-| ![Overview](screenshots/01_overview.png) | ![Customers](screenshots/02_customer_insights.png) |
+| --- | --- |
+| ![Overview](retail-sales-powerbi-dashboard/Screenshots/01_Overview.png.) | ![Customers](retail-sales-powerbi-dashboard/Screenshots/02_Customer_insight.png) |
 
 | Product Insights | Sales Team |
-|---|---|
-| ![Products](screenshots/03_product_insights.png) | ![Sales Team](screenshots/04_sales_team.png) |
+| --- | --- |
+| ![Products](retail-sales-powerbi-dashboard/Screenshots/03_Product_insights.png) | ![Sales Team](retail-sales-powerbi-dashboard/Screenshots/04_Sales_Team.png) |
+
+**Customer Detail (drill-through)**
+
+![Customer Details](retail-sales-powerbi-dashboard/Screenshots/CustomerDetails.png)
 
 **Data Model (Star Schema)**
 
-![Model](screenshots/00_data_model.png)
+![Model](retail-sales-powerbi-dashboard/Screenshots/00_Data_Model.png)
 
 ## Key Numbers
 | Metric | Value |
