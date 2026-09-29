@@ -11,7 +11,7 @@ An end-to-end Power BI project on a 5-table retail dataset (2023-2025): data cle
 ## Dashboard Preview
 | Overview | Customer Insights |
 | --- | --- |
-| ![Overview](retail-sales-powerbi-dashboard/Screenshots/01_Overview.png.) | ![Customers](retail-sales-powerbi-dashboard/Screenshots/02_Customer_insight.png) |
+| ![Overview](retail-sales-powerbi-dashboard/Screenshots/01_Overview.png) | ![Customers](retail-sales-powerbi-dashboard/Screenshots/02_Customer_insight.png) |
 
 | Product Insights | Sales Team |
 | --- | --- |
